@@ -1,8 +1,13 @@
 {
-  "name": "react-cornerstone-test",
+  "name": "test2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "cornerstone-core": "^2.2.8",
+    "cornerstone-wado-image-loader": "^2.2.3",
+    "cornerstone-web-image-loader": "^2.1.1",
+    "dicom-parser": "^1.8.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"

@@ -907,14 +907,14 @@
 
 "@babel/runtime@7.4.3":
   version "7.4.3"
-  resolved "https://registry.npm.taobao.org/@babel/runtime/download/@babel/runtime-7.4.3.tgz#79888e452034223ad9609187a0ad1fe0d2ad4bdc"
+  resolved "https://registry.npm.taobao.org/@babel/runtime/download/@babel/runtime-7.4.3.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fruntime%2Fdownload%2F%40babel%2Fruntime-7.4.3.tgz#79888e452034223ad9609187a0ad1fe0d2ad4bdc"
   integrity sha1-eYiORSA0IjrZYJGHoK0f4NKtS9w=
   dependencies:
     regenerator-runtime "^0.13.2"
 
 "@babel/runtime@^7.0.0", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.2":
   version "7.4.4"
-  resolved "https://registry.npm.taobao.org/@babel/runtime/download/@babel/runtime-7.4.4.tgz#dc2e34982eb236803aa27a07fea6857af1b9171d"
+  resolved "https://registry.npm.taobao.org/@babel/runtime/download/@babel/runtime-7.4.4.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fruntime%2Fdownload%2F%40babel%2Fruntime-7.4.4.tgz#dc2e34982eb236803aa27a07fea6857af1b9171d"
   integrity sha1-3C40mC6yNoA6onoH/qaFevG5Fx0=
   dependencies:
     regenerator-runtime "^0.13.2"
@@ -1305,7 +1305,7 @@
 
 "@types/node@*":
   version "11.13.8"
-  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-11.13.8.tgz#e5d71173c95533be9842b2c798978f095f912aab"
+  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-11.13.8.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fnode%2Fdownload%2F%40types%2Fnode-11.13.8.tgz#e5d71173c95533be9842b2c798978f095f912aab"
   integrity sha1-5dcRc8lVM76YQrLHmJePCV+RKqs=
 
 "@types/q@^1.5.1":
@@ -1859,7 +1859,7 @@ async@^1.5.2:
 
 async@^2.6.1:
   version "2.6.2"
-  resolved "https://registry.npm.taobao.org/async/download/async-2.6.2.tgz#18330ea7e6e313887f5d2f2a904bac6fe4dd5381"
+  resolved "https://registry.npm.taobao.org/async/download/async-2.6.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fasync%2Fdownload%2Fasync-2.6.2.tgz#18330ea7e6e313887f5d2f2a904bac6fe4dd5381"
   integrity sha1-GDMOp+bjE4h/XS8qkEusb+TdU4E=
   dependencies:
     lodash "^4.17.11"
@@ -1895,6 +1895,14 @@ aws4@^1.8.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.8.0.tgz#f0e003d9ca9e7f59c7a508945d7b2ef9a04a542f"
   integrity sha512-ReZxvNHIOv88FlT7rxcXIIC0fPt4KZqZbOlivyWtXLt8ESx84zd3kMC6iK5jVeS2qt+g7ftS7ye4fi06X5rtRQ==
+
+axios@^0.18.0:
+  version "0.18.0"
+  resolved "https://registry.npm.taobao.org/axios/download/axios-0.18.0.tgz#32d53e4851efdc0a11993b6cd000789d70c05102"
+  integrity sha1-MtU+SFHv3AoRmTts0AB4nXDAUQI=
+  dependencies:
+    follow-redirects "^1.3.0"
+    is-buffer "^1.1.5"
 
 axobject-query@^2.0.2:
   version "2.0.2"
@@ -2381,7 +2389,7 @@ callsites@^2.0.0:
 
 callsites@^3.0.0:
   version "3.1.0"
-  resolved "https://registry.npm.taobao.org/callsites/download/callsites-3.1.0.tgz#b3630abd8943432f54b3f0519238e33cd7df2f73"
+  resolved "https://registry.npm.taobao.org/callsites/download/callsites-3.1.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcallsites%2Fdownload%2Fcallsites-3.1.0.tgz#b3630abd8943432f54b3f0519238e33cd7df2f73"
   integrity sha1-s2MKvYlDQy9Us/BRkjjjPNffL3M=
 
 camel-case@3.0.x:
@@ -2840,6 +2848,23 @@ core-util-is@1.0.2, core-util-is@~1.0.0:
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
   integrity sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=
 
+cornerstone-core@^2.2.8:
+  version "2.2.8"
+  resolved "https://registry.npm.taobao.org/cornerstone-core/download/cornerstone-core-2.2.8.tgz#5f10c65c80f8efa7623ee1dd5c9a9d4605f5467c"
+  integrity sha1-XxDGXID476diPuHdXJqdRgX1Rnw=
+
+cornerstone-wado-image-loader@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.npm.taobao.org/cornerstone-wado-image-loader/download/cornerstone-wado-image-loader-2.2.3.tgz#2d4c06b5c87cd9198b52906c48e2d9dd145de986"
+  integrity sha1-LUwGtch82RmLUpBsSOLZ3RRd6YY=
+  dependencies:
+    dicom-parser "^1.8.1"
+
+cornerstone-web-image-loader@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.npm.taobao.org/cornerstone-web-image-loader/download/cornerstone-web-image-loader-2.1.1.tgz#531262668d3b44fb461161c67d58ebcaefbae73d"
+  integrity sha1-UxJiZo07RPtGEWHGfVjryu+65z0=
+
 cosmiconfig@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-4.0.0.tgz#760391549580bbd2df1e562bc177b13c290972dc"
@@ -3184,7 +3209,7 @@ debug@=3.1.0:
   dependencies:
     ms "2.0.0"
 
-debug@^3.2.5:
+debug@^3.2.5, debug@^3.2.6:
   version "3.2.6"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
   integrity sha512-mel+jf7nrtEl5Pn1Qx46zARXKDpBbvzezse7p7LqINmdoIk8PYP5SySaxEmYv6TZ0JyEKA1hsCId6DIhgITtWQ==
@@ -3336,6 +3361,11 @@ detect-port-alt@1.1.6:
   dependencies:
     address "^1.0.1"
     debug "^2.6.0"
+
+dicom-parser@^1.8.1, dicom-parser@^1.8.3:
+  version "1.8.3"
+  resolved "https://registry.npm.taobao.org/dicom-parser/download/dicom-parser-1.8.3.tgz#6e4b862898112304db30143147562011c1ce6a4d"
+  integrity sha1-bkuGKJgRIwTbMBQxR1YgEcHOak0=
 
 diff-sequences@^24.3.0:
   version "24.3.0"
@@ -4188,6 +4218,13 @@ follow-redirects@^1.0.0:
   integrity sha512-t2JCjbzxQpWvbhts3l6SH1DKzSrx8a+SsaVf4h6bG4kOXUuPYS/kg2Lr4gQSb7eemaHqJkOThF1BGyjlUkO1GQ==
   dependencies:
     debug "=3.1.0"
+
+follow-redirects@^1.3.0:
+  version "1.7.0"
+  resolved "https://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.7.0.tgz#489ebc198dc0e7f64167bd23b03c4c19b5784c76"
+  integrity sha1-SJ68GY3A5/ZBZ70jsDxMGbV4THY=
+  dependencies:
+    debug "^3.2.6"
 
 for-in@^0.1.3:
   version "0.1.8"
@@ -8130,9 +8167,9 @@ react-dev-utils@^9.0.0:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-dom@16.8.6:
+react-dom@^16.8.6:
   version "16.8.6"
-  resolved "https://registry.npm.taobao.org/react-dom/download/react-dom-16.8.6.tgz#71d6303f631e8b0097f56165ef608f051ff6e10f"
+  resolved "https://registry.npm.taobao.org/react-dom/download/react-dom-16.8.6.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-dom%2Fdownload%2Freact-dom-16.8.6.tgz#71d6303f631e8b0097f56165ef608f051ff6e10f"
   integrity sha1-cdYwP2MeiwCX9WFl72CPBR/24Q8=
   dependencies:
     loose-envify "^1.1.0"
@@ -8208,9 +8245,9 @@ react-scripts@3.0.0:
   optionalDependencies:
     fsevents "2.0.6"
 
-react@16.8.6:
+react@^16.8.6:
   version "16.8.6"
-  resolved "https://registry.npm.taobao.org/react/download/react-16.8.6.tgz#ad6c3a9614fd3a4e9ef51117f54d888da01f2bbe"
+  resolved "https://registry.npm.taobao.org/react/download/react-16.8.6.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact%2Fdownload%2Freact-16.8.6.tgz#ad6c3a9614fd3a4e9ef51117f54d888da01f2bbe"
   integrity sha1-rWw6lhT9Ok6e9REX9U2IjaAfK74=
   dependencies:
     loose-envify "^1.1.0"
@@ -9861,7 +9898,7 @@ w3c-xmlserializer@^1.1.2:
 
 walker@^1.0.7, walker@~1.0.5:
   version "1.0.7"
-  resolved "https://registry.npm.taobao.org/walker/download/walker-1.0.7.tgz#2f7f9b8fd10d677262b18a884e28d19618e028fb"
+  resolved "https://registry.yarnpkg.com/walker/-/walker-1.0.7.tgz#2f7f9b8fd10d677262b18a884e28d19618e028fb"
   integrity sha1-L3+bj9ENZ3JisYqITijRlhjgKPs=
   dependencies:
     makeerror "1.0.x"
